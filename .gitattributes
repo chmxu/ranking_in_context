@@ -1,0 +1,1 @@
+dino_vitbase16_pretrain_full_checkpoint.pth filter=lfs diff=lfs merge=lfs -text
